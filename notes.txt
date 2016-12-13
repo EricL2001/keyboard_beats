@@ -1,0 +1,6 @@
+Key takeaways
+
+Event listener for keydown
+Event listener for transition end
+Each key is associated with an audio file that plays a specific sound
+CSS transitions for animation
