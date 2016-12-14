@@ -1,7 +1,8 @@
 html {
   font-size: 10px;
-  background:url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://cdn.pixabay.com/photo/2016/02/19/11/22/drummer-1209672_960_720.jpg) bottom center;
   background-size: cover;
+
 }
 body,html {
   margin: 0;
@@ -27,14 +28,14 @@ body,html {
   width:100px;
   text-align: center;
   color:white;
-  background:rgba(0,0,0,0.4);
+  background:rgba(0,0,0,0.5);
   text-shadow:0 0 5px black;
 }
 
 .playing {
   transform:scale(1.1);
-  border-color:#ffc600;
-  box-shadow: 0 0 10px #ffc600;
+  border-color:#ff761a;
+  box-shadow: 0 0 10px #ff761a;
 }
 
 kbd {
@@ -46,5 +47,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color:#ffc600;
+  color:#ff761a;
 }

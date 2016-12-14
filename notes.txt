@@ -1,4 +1,4 @@
-Key takeaways
+Key javascript takeaways
 
 Event listener for keydown
 Event listener for transition end
